@@ -1,11 +1,10 @@
-# Awesome Certificates
-A curated list of certifications and links to more information about them, as well as some other providers with tens or hundreds of certifications each. Please note that while certifications for Programming Languages aren't used in the industry, and thus the list is intentionally kept short for the ones that might receive some credit, in other domains like Cloud and Cybersecurity, certificates are widely used to asses skill level.
+# Awesome Certificates[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+A curated list of thrust-worthy DevOps certifications and links to more information about them, as well as some other providers with tens or hundreds of certifications each.
 
 - [Awesome Certificates](#awesome-certificates)
     - [Cloud](#cloud)
     - [Agile](#agile)
     - [Software Development](#software-development)
-    - [Programming Languages](#programming-languages)
     - [Databases](#databases)
     - [Security & Networking](#security-networking)
     - [Other Providers](#other-providers-of-certifications)
@@ -70,6 +69,10 @@ A curated list of certifications and links to more information about them, as we
         * [Microsoft Certified: Azure for SAP Workloads Specialty](https://docs.microsoft.com/en-us/learn/certifications/azure-for-sap-workloads-specialty/)
         * [Microsoft Certified: Azure Virtual Desktop Specialty](https://docs.microsoft.com/en-us/learn/certifications/azure-virtual-desktop-specialty/)
         * [Microsoft Certified: Azure IoT Developer Specialty](https://docs.microsoft.com/en-us/learn/certifications/azure-iot-developer-specialty/)
+* [Hashicorp](https://www.hashicorp.com/certification)
+    * [HashiCorp Certified: Terraform Associate](https://www.hashicorp.com/certification/terraform-associate)
+    * [HashiCorp Certified: Vault Associate](https://www.hashicorp.com/certification/vault-associate)
+    * [HashiCorp Certified: Consul Associate](https://www.hashicorp.com/certification/consul-associate)
 
 ## Agile
 * [Scrum](https://www.scrum.org/professional-scrum-certifications)
@@ -94,34 +97,11 @@ A curated list of certifications and links to more information about them, as we
     * [Professional Software Developer](https://www.computer.org/product/education/professional-software-developer-certification)
     * [Professional Software Engineering Master](https://www.computer.org/product/education/professional-software-engineering-master-certification)
 
-## Programming Languages
-* [C/C++]()
-    * [C++ Insitute](https://cppinstitute.org/certification)
-        * Entry-Level
-            * [CLE – C Certified Entry-Level Programmer](https://cppinstitute.org/cle-c-certified-entry-level-programmer-certification)
-            * [CPE – C++ Certified Entry-Level Programmer](https://cppinstitute.org/cpe-c-certified-entry-level-programmer-certification)
-        * Associate
-            * [CLA – C Programming Language Certified Associate](https://cppinstitute.org/cla-c-programming-language-certified-associate)
-            * [CPA – C++ Certified Associate Programmer Certification](https://cppinstitute.org/cpa-c-certified-associate-programmer-certification)
-        * Professional
-            * [CLP – C Certified Professional Programmer Certification](https://cppinstitute.org/clp-c-certified-professional-programmer)
-            * [CPP – C++ Certified Professional Programmer Certification](https://cppinstitute.org/cpp-c-certified-professional-programmer)
-* [SQL]()
-    * [Oracle Database SQL Certified Associate](https://education.oracle.com/oracle-database-sql-certified-associate/trackp_457)
-* [Java]()
-    * Associate
-        * [Oracle Certified Foundations Associate, Java](https://education.oracle.com/oracle-certified-foundations-associate-java/trackp_372)
-        * [Oracle Certified Associate: Java SE 8 Programmer](https://education.oracle.com/oracle-certified-associate-java-se-8-programmer/trackp_333)
-    * Professional
-        * [Oracle Certified Professional: Java EE 7 Application Developer](https://education.oracle.com/oracle-certified-professional-java-ee-7-application-developer/trackp_900)
-        * [Oracle Certified Professional: Java SE 8 Programmer](https://education.oracle.com/oracle-certified-professional-java-se-8-programmer/trackp_357)
-        * [Oracle Certified Professional: Java SE 11 Developer](https://education.oracle.com/oracle-certified-professional-java-se-11-developer/trackp_OCPJAV11)
-        * [Oracle Certified Professional: Java SE 17 Developer](https://education.oracle.com/oracle-certified-professional-java-se-17-developer/trackp_OCPJSE17)
 ## Databases
-* [MySQL]()
+* [MySQL](https://www.mysql.com)
     * [Oracle Certified Professional, MySQL Database Administrator](https://education.oracle.com/oracle-certified-professional-mysql-80-database-administrator/trackp_MYSQLDBA80OCP)
     * [MySQL Database Developer Oracle Certified Professional](https://education.oracle.com/mysql-80-database-developer-oracle-certified-professional/trackp_MYSQLPRG80OCP)
-* [Redis]()
+* [Redis](https://university.redis.com/certification/)
     * [Redis Certified Developer](https://university.redis.com/certification/)
 
 ## Security & Networking
@@ -150,15 +130,15 @@ A curated list of certifications and links to more information about them, as we
         * [Cisco Certified CyberOps Associate](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/cyberops-associate.html)
     * Professional
         * [Cisco Certified DevNet Professional](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/devnet/cisco-certified-devnet-professional.html)
+        * [Cisco Certified CyberOps Professional](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/cyberops-professional.html)
         * [CCNP Enterprise](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-enterprise.html)
         * [CCNP Collaboration](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-collaboration-v2.html)
         * [CCNP Data Center](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-data-center-v2.html)
         * [CCNP Security](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-security-v2.html)
         * [CCNP Service Provider](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-service-provider-v2.html)
-        * [Cisco Certified CyberOps Professional](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/cyberops-professional.html)
     * Expert
-        * [CCDE](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/expert/ccde.html)
         * [Cisco Certified DevNet Expert](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/expert/devnet-expert.html)
+        * [CCDE](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/expert/ccde.html)
         * [CCIE Enterprise Infrastructure](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/expert/ccie-enterprise-infrastructure.html)
         * [CCIE Enterprise Wireless](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/expert/ccie-enterprise-wireless.html)
         * [CCIE Collaboration](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/expert/ccie-collaboration-v2.html)
@@ -179,11 +159,13 @@ A curated list of certifications and links to more information about them, as we
 * [Google](https://grow.google/intl/europe/google-certificates)
 * [Oracle](https://education.oracle.com/certification)
 * [Salesforce](https://trailhead.salesforce.com/credentials)
+* [Red Hat](https://www.redhat.com/en/services/certifications)
+* [Linux Foundation](https://training.linuxfoundation.org/training/plan-your-training/)
 * [Coursera](https://www.coursera.org/search?index=prod_all_launched_products_term_optimization&entityTypeDescription=Professional%20Certificates)
 
 # Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/hassanalinali/awesome-certificates/blob/master/CONTRIBUTING.md) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/hassanalinali/awesome-devops-certificates/blob/master/CONTRIBUTING.md) first.
 
 - - -
 
